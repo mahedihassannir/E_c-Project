@@ -4,7 +4,9 @@ const Banner = () => {
         <div className="w-full h-screen bg-red-400 ">
 
 
-            hi i am banner
+
+
+
 
 
         </div>
