@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        customnavcolor: 'rgb(158,158,158,.2)',
+      },
+    },
   },
   plugins: [require("daisyui")],
+
+
 }
