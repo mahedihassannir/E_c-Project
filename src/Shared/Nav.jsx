@@ -50,7 +50,7 @@ const Nav = () => {
                 <div className="">
                     <div className="relative">
 
-                        <input className="py-3 px-60 bg-[#f5f5f5]" type="text" placeholder="Serch On Daraz" />
+                        <input className="outline-none  py-3 px-60 bg-[#f5f5f5]" type="text" placeholder="Serch On Daraz" />
 
 
                         <div className="absolute top-0.5 ml-[614px]">
