@@ -1,8 +1,9 @@
 
 const Card = () => {
     return (
-        <div>
-                
+        <div className="mt-10">
+
+
         </div>
     );
 };

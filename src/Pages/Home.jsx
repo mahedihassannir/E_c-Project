@@ -1,6 +1,7 @@
 import Banner from "../Components/Banner";
 import Card from "../Components/Card";
 import Categotyone from "../Components/Categotyone";
+import ShortB from "../Components/ShortB";
 
 
 
@@ -15,13 +16,14 @@ const Home = () => {
             {/* banner */}
             <Banner />
 
-            {/* here is the card section  */}
+            {/* here is the short banner section */}
 
-            {/* <Card /> */}
+            <ShortB></ShortB>
+
 
             {/* here is the shop by category section */}
 
-            {/* <Categotyone /> */}
+            <Categotyone />
 
 
 
