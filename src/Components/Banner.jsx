@@ -50,9 +50,9 @@ const Banner = () => {
 
                     </SwiperSlide>
 
-                    <SwiperSlide>
+                    <SwiperSlide className=''>
 
-                        <img className=' h-[500px] mx-auto' src="https://icms-image.slatic.net/images/ims-web/28492172-b922-42c2-b995-a5bb4967ad67.jpg" alt="" />
+                        <img className='h-[500px] mx-auto' src="https://icms-image.slatic.net/images/ims-web/28492172-b922-42c2-b995-a5bb4967ad67.jpg" alt="" />
 
                     </SwiperSlide>
                     <SwiperSlide>
