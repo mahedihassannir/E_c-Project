@@ -1,7 +1,7 @@
 // swiper all imports
 
 
-import React, { useRef, useState } from 'react';
+
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -21,6 +21,9 @@ import { Pagination } from 'swiper/modules';
  * name : banner section
  * coder : Mahedi Hassan 
  * 
+ * 
+ * 
+ * 
  */
 
 const Banner = () => {
@@ -38,6 +41,7 @@ const Banner = () => {
                     className="mySwiper"
 
                 >
+
                     <SwiperSlide className=''>
 
                         <img className=' h-[500px] mx-auto' src="https://icms-image.slatic.net/images/ims-web/349814dd-3762-4ac0-bfd7-f094e2cf111e.jpg_1200x1200.jpg" alt="" />
