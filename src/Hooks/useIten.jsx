@@ -2,28 +2,34 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 
-const useIten = () => {
+const useItem = () => {
 
 
-    const [Menue, SetMenue] = useState([]);
+    const [Menu, SetMenue] = useState([]);
 
     const [loading, Setloding] = useState(true);
+
+    console.log({ Menu });
+
+
 
     useEffect(() => {
 
 
-        fetch(`https://github.com/ProgrammingHero1/bistro-boss-restaurant-resources/blob/main/menu.json`)
+        fetch('data.json')
 
             .then(res => res.json())
 
             .then(data => {
+
                 SetMenue(data);
-                Setloding(false);
+
+                Setloding(false)
+
             })
 
-
     }, [])
-    return [Menue, loading]
+    return [Menu, loading]
 
 
 
@@ -31,4 +37,4 @@ const useIten = () => {
 
 };
 
-export default useIten;
+export default useItem;

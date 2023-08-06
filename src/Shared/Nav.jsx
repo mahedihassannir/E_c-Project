@@ -32,7 +32,7 @@ const Nav = () => {
                     <Link className="hover:text-orange-500 hover:duration-500 hover:underline">Home</Link>
 
                     <Link className="hover:text-orange-500 hover:duration-500 hover:underline">Home</Link>
-                    <Link className="hover:text-orange-500 hover:duration-500 hover:underline">Home</Link>
+                    <Link className="hover:text-orange-500 hover:duration-500 hover:underline">LOGIN /  Register</Link>
                     <Link className="hover:text-orange-500 hover:duration-500 hover:underline">Home</Link>
 
                 </ul>
@@ -42,7 +42,10 @@ const Nav = () => {
 
             <nav className="w-full h-[120px] px-32 bg-white  flex justify-around items-center">
                 {/* logo */}
-                <img className="w-28 cursor-pointer " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT__nsMPW5fA3D8zzqYjSU6RjOftxpVvC5rw&usqp=CAU" />
+                <Link to="/">
+
+                    <img className="w-28 cursor-pointer " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT__nsMPW5fA3D8zzqYjSU6RjOftxpVvC5rw&usqp=CAU" />
+                </Link>
                 {/* logo */}
 
                 {/* here is the serch bar  */}
@@ -62,7 +65,7 @@ const Nav = () => {
                 </div>
 
                 {/* here is the cart  */}
-                <div className="">
+                <Link to="/cart" className="">
 
                     <button className="">
 
@@ -70,13 +73,13 @@ const Nav = () => {
 
                     </button>
 
-                </div>
+                </Link>
 
 
                 {/* here is the free add */}
-                <div className="">
+                <Link to="/freeDelevery" className="">
                     <img className="w-44 cursor-pointer" src="https://i.ibb.co/BrPV7Rx/d998019b-9b34-44be-b747-1e6d5a892e2c.png" alt="" />
-                </div>
+                </Link>
 
             </nav >
 

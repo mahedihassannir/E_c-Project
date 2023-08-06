@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Bag",
+    "description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 450
+  },
+  {
+    "_id": "743d2a601f61b8e0c47efc21",
+    "name": "Shoes",
+    "description": "Elegant black leather shoes with a modern twist, perfect for any formal occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 120
+  },
+  {
+    "_id": "832e3bf9a452cd65b88d92e5",
+    "name": "Hat",
+    "description": "Stylish fedora hat made from premium wool, suitable for both men and women.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 65
+  },
+  {
+    "_id": "9a45f836c2d88b7103e6af74",
+    "name": "Dress",
+    "description": "Floral print sundress with adjustable straps, ideal for summer outings.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 75
+  },
+  {
+    "_id": "a7c18b6e4f20d93ecb223c09",
+    "name": "Watch",
+    "description": "Sleek stainless steel watch with a minimalist design, suitable for any occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 200
+  },
+  {
+    "_id": "b5e6d4a380f8c2978b1e54e2",
+    "name": "Jeans",
+    "description": "Classic denim jeans with a comfortable fit, perfect for casual everyday wear.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 55
+  },
+  {
+    "_id": "c38f47e599a1d2061db28bf0",
+    "name": "Sunglasses",
+    "description": "Trendy aviator sunglasses with UV protection, ideal for sunny days.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 30
+  },
+  {
+    "_id": "d6b19ea0ed7ac94f8e1b91e6",
+    "name": "Jacket",
+    "description": "Lightweight windbreaker jacket with a modern design, perfect for transitional weather.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 90
+  },
+  {
+    "_id": "e8c1f7d3b69aee670e84d7fa",
+    "name": "Scarf",
+    "description": "Soft and cozy scarf made from premium wool, suitable for keeping warm in the winter.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 40
+  },
+  {
+    "_id": "f9d0a6656b4e22a63271833d",
+    "name": "T-shirt",
+    "description": "Comfortable cotton t-shirt with a stylish graphic print, great for casual wear.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 25
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Bag",
+    "description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 450
+  },
+  {
+    "_id": "743d2a601f61b8e0c47efc21",
+    "name": "Shoes",
+    "description": "Elegant black leather shoes with a modern twist, perfect for any formal occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 120
+  },
+  {
+    "_id": "832e3bf9a452cd65b88d92e5",
+    "name": "Hat",
+    "description": "Stylish fedora hat made from premium wool, suitable for both boys and girls.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 65
+  },
+  {
+    "_id": "9a45f836c2d88b7103e6af74",
+    "name": "Dress",
+    "description": "Floral print sundress with adjustable straps, perfect for young girls.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 75
+  },
+  {
+    "_id": "a7c18b6e4f20d93ecb223c09",
+    "name": "Watch",
+    "description": "Colorful wristwatch designed for kids, featuring their favorite characters.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 200
+  },
+  {
+    "_id": "b5e6d4a380f8c2978b1e54e2",
+    "name": "Jeans",
+    "description": "Playful denim jeans for active kids, providing comfort and style.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 55
+  },
+  {
+    "_id": "c38f47e599a1d2061db28bf0",
+    "name": "Sunglasses",
+    "description": "Adorable sunglasses with UV protection, designed for sunny days of fun.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 30
+  },
+  {
+    "_id": "d6b19ea0ed7ac94f8e1b91e6",
+    "name": "Jacket",
+    "description": "Lightweight jacket for kids, perfect for keeping them cozy during adventures.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 90
+  },
+  {
+    "_id": "e8c1f7d3b69aee670e84d7fa",
+    "name": "Scarf",
+    "description": "Soft and playful scarf designed to keep kids warm in colder months.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 40
+  },
+  {
+    "_id": "f9d0a6656b4e22a63271833d",
+    "name": "T-shirt",
+    "description": "Fun and vibrant t-shirt with animated graphics for active kids.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Kids' Fashion",
+    "price": 25
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Stylish Handbag",
+    "description": "Elevate your look with this elegant handbag. Perfect for both formal occasions and casual outings.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 450
+  },
+  {
+    "_id": "743d2a601f61b8e0c47efc21",
+    "name": "Classic Heeled Shoes",
+    "description": "Step out in style with these classic black leather heeled shoes. The modern twist adds a touch of uniqueness to your ensemble.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 120
+  },
+  {
+    "_id": "832e3bf9a452cd65b88d92e5",
+    "name": "Chic Fedora Hat",
+    "description": "Complete your look with this stylish fedora hat. Made from premium wool, it's a versatile accessory suitable for any occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 65
+  },
+  {
+    "_id": "9a45f836c2d88b7103e6af74",
+    "name": "Floral Print Sundress",
+    "description": "Embrace the beauty of summer with this floral print sundress. The adjustable straps ensure a comfortable fit for your sunny outings.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 75
+  },
+  {
+    "_id": "a7c18b6e4f20d93ecb223c09",
+    "name": "Elegant Stainless Steel Watch",
+    "description": "Enhance your wrist with this sleek stainless steel watch. Its minimalist design makes it a perfect match for any outfit or occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 200
+  },
+  {
+    "_id": "b5e6d4a380f8c2978b1e54e2",
+    "name": "Comfortable Denim Jeans",
+    "description": "Experience timeless style and comfort with these classic denim jeans. An essential for your casual everyday wardrobe.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 55
+  },
+  {
+    "_id": "c38f47e599a1d2061db28bf0",
+    "name": "Trendy Aviator Sunglasses",
+    "description": "Stay stylish and protected from the sun with these trendy aviator sunglasses. The perfect accessory for sunny days and outdoor adventures.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 30
+  },
+  {
+    "_id": "d6b19ea0ed7ac94f8e1b91e6",
+    "name": "Modern Windbreaker Jacket",
+    "description": "Transition between seasons effortlessly with this lightweight windbreaker jacket. Its modern design keeps you stylish and comfortable.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 90
+  },
+  {
+    "_id": "e8c1f7d3b69aee670e84d7fa",
+    "name": "Cozy Wool Scarf",
+    "description": "Wrap yourself in warmth and style with this soft and cozy wool scarf. A must-have accessory for chilly days and winter outings.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 40
+  },
+  {
+    "_id": "f9d0a6656b4e22a63271833d",
+    "name": "Graphic Print T-shirt",
+    "description": "Express your individuality with this comfortable cotton t-shirt featuring a stylish graphic print. Perfect for casual and trendy looks.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Women's Fashion",
+    "price": 25
+  }
+]
